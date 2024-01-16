@@ -1,7 +1,7 @@
 name: Build and deploy a container to an Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: kec-msc-s1
+  AZURE_WEBAPP_NAME: kec-msc-s11
 
 on:
   push:
