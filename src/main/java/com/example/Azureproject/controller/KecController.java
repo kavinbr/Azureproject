@@ -8,6 +8,6 @@ public class KecController {
 
     @GetMapping("/msc1")
     public String kec() {
-        return "welcome to kec - By Kavin B R you are legend....";
+        return "welcome to kec - By Kavin B R you are legends....";
     }
 }
